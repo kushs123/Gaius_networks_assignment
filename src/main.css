@@ -1,0 +1,31 @@
+.label {
+  margin-right: 10px;
+  color: whitesmoke;
+}
+h1 {
+  color: whitesmoke;
+  padding-bottom: 15px;
+  border-bottom: 2px solid;
+}
+.options {
+  padding: 3px;
+  cursor: pointer;
+}
+.text {
+  margin-bottom: 5px;
+  color: white;
+}
+.textarea {
+  margin: 25px;
+  width: 300px;
+  height: 150px;
+  resize: none;
+}
+.suggestions {
+  border-top: 1px solid white;
+  padding-top: 15px;
+}
+.suggestion-item {
+  margin: 4px;
+  padding: 4px;
+}
