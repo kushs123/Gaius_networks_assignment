@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gaius_networks_assignment/static/css/main.0b493aea.chunk.css",
+    "main.js": "/Gaius_networks_assignment/static/js/main.32ea51a9.chunk.js",
+    "main.js.map": "/Gaius_networks_assignment/static/js/main.32ea51a9.chunk.js.map",
+    "runtime-main.js": "/Gaius_networks_assignment/static/js/runtime-main.45178ddc.js",
+    "runtime-main.js.map": "/Gaius_networks_assignment/static/js/runtime-main.45178ddc.js.map",
+    "static/js/2.d1fb2d66.chunk.js": "/Gaius_networks_assignment/static/js/2.d1fb2d66.chunk.js",
+    "static/js/2.d1fb2d66.chunk.js.map": "/Gaius_networks_assignment/static/js/2.d1fb2d66.chunk.js.map",
+    "index.html": "/Gaius_networks_assignment/index.html",
+    "static/css/main.0b493aea.chunk.css.map": "/Gaius_networks_assignment/static/css/main.0b493aea.chunk.css.map",
+    "static/js/2.d1fb2d66.chunk.js.LICENSE.txt": "/Gaius_networks_assignment/static/js/2.d1fb2d66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45178ddc.js",
+    "static/js/2.d1fb2d66.chunk.js",
+    "static/css/main.0b493aea.chunk.css",
+    "static/js/main.32ea51a9.chunk.js"
+  ]
+}
