@@ -12,7 +12,7 @@ This project is simple words/text convertor into different languages using an AP
 
 ## Github pages
 The current api doesn't supports cross browser compatability. It can run Chrome without web security
-To open Chrome without web security use do these steps : 
+To open Chrome without web security do these steps : 
 * open run window in windows.
 * Type command : ```chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security```
 
