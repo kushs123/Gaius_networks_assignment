@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kushs123.github.io/Gaius_networks_assignment/",
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
@@ -15,9 +16,12 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "gh-pages": "^3.2.1",
     "typescript": "4.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
